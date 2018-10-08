@@ -1,0 +1,6 @@
+model_checkpoint_path: "seq2seq_ckpt-9000"
+all_model_checkpoint_paths: "seq2seq_ckpt-8200"
+all_model_checkpoint_paths: "seq2seq_ckpt-8400"
+all_model_checkpoint_paths: "seq2seq_ckpt-8600"
+all_model_checkpoint_paths: "seq2seq_ckpt-8800"
+all_model_checkpoint_paths: "seq2seq_ckpt-9000"
